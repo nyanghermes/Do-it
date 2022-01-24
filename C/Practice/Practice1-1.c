@@ -13,6 +13,6 @@ int main(void)
   if(c>max) max=c;
 
   printf("최댓값은 %d입니다.\n",max);
-
+  
   return 0;
 }
